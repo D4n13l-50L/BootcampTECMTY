@@ -1,4 +1,4 @@
 # BootcampTECMTY
 My 2021 Data Analytics Bootcamp stuff.
-2/23 upate!!!
-new branch
+
+Now finally I made a change in a fck branch
